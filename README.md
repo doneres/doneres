@@ -3,7 +3,7 @@
 
 <p>🎓 Undergraduate in Systems Analysis and Development at <a href="https://www.pucgoias.edu.br/" target="blank_">PUC GOIÁS</a></p>
 
-<p>☁️ <a href="https://learn.microsoft.com/api/credentials/share/pt-br/doneres/EFDB2B72D748D4ED?sharingId=1C2E976AACDDDC7">1x Azure Certified</a></p>
+<p>☁️ <a href="https://learn.microsoft.com/api/credentials/share/pt-br/doneres/EFDB2B72D748D4ED?sharingId=1C2E976AACDDDC7">2x Microsoft Certified</a></p>
 
 <p>🔠 B1 Advanced English Level</p>
 
