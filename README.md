@@ -25,7 +25,7 @@ I build REST APIs and fullstack systems with **Java/Spring Boot**, **Node.js** a
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,spring,nodejs,js,ts,react,python,go,cs&theme=dark" />
   <br>
-  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,azure,git,rabbitmq&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,azure,aws,git,rabbitmq&theme=dark" />
 </p>
 
 <br>
@@ -39,19 +39,6 @@ I build REST APIs and fullstack systems with **Java/Spring Boot**, **Node.js** a
   <img src="https://img.shields.io/badge/Bubble-000000?style=flat-square&logo=bubble&logoColor=white">
   <img src="https://img.shields.io/badge/FlutterFlow-2196F3?style=flat-square&logo=flutter&logoColor=white">
   <img src="https://img.shields.io/badge/Power_Apps-742774?style=flat-square&logo=powerapps&logoColor=white">
-</p>
-
-<br>
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=doneres&show_icons=true&theme=dark&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=doneres&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="left">
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=doneres&theme=dark&hide_border=true" />
 </p>
 
 <br>
